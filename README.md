@@ -34,4 +34,4 @@ Feel free to navigate through these folders to explore the programs and projects
 You can clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/MCA-1st-Semester-CPP.git
+git clone https://github.com/berinton/MyCppJourney.git
